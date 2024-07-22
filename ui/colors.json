@@ -1,0 +1,114 @@
+{
+    "level-search-bg": {
+        "r": 35,
+        "g": 24,
+        "b": 52
+    },
+    "level-search-bar-bg": {
+        "r": 76,
+        "g": 54,
+        "b": 114
+    },
+    "quick-search-bg": {
+        "r": 35,
+        "g": 24,
+        "b": 52
+    },
+    "difficulty-filters-bg": {
+        "r": 35,
+        "g": 24,
+        "b": 52
+    },
+    "length-filters-bg": {
+        "r": 16,
+        "g": 13,
+        "b": 32
+    },
+    "list-layer-bg": {
+        "r": 16,
+        "g": 13,
+        "b": 32
+    },
+    "list-cell-odd": {
+        "r": 76,
+        "g": 54,
+        "b": 114
+    },
+    "list-cell-even": {
+        "r": 58,
+        "g": 40,
+        "b": 86
+    },
+    "comment-cell-odd": {
+        "r": 16,
+        "g": 13,
+        "b": 32
+    },
+    "comment-cell-even": {
+        "r": 43,
+        "g": 29,
+        "b": 71
+    },
+    "comment-cell-small-odd": {
+        "r": 16,
+        "g": 13,
+        "b": 32
+    },
+    "comment-cell-small-even": {
+        "r": 43,
+        "g": 29,
+        "b": 71
+    },
+    "comment-cell-bg-odd": {
+        "r": 16,
+        "g": 13,
+        "b": 32,
+        "a": 255
+    },
+    "comment-cell-bg-even": {
+        "r": 43,
+        "g": 29,
+        "b": 71,
+        "a": 255
+    },
+    "comment-list-layer-bg": {
+        "r": 16,
+        "g": 13,
+        "b": 32
+    },
+    "info-description-bg": {
+        "r": 43,
+        "g": 29,
+        "b": 71
+    },
+    "edit-description-bg": {
+        "r": 16,
+        "g": 13,
+        "b": 32
+    },
+    "edit-name-bg": {
+        "r": 16,
+        "g": 13,
+        "b": 32
+    },
+    "main-menu-bg": {
+        "r": 16,
+        "g": 13,
+        "b": 32
+    },
+    "main-menu-ground": {
+        "r": 59,
+        "g": 40,
+        "b": 98
+    },
+    "comment-list-outline-brown": {
+        "r": 15,
+        "g": 15,
+        "b": 15
+    },
+    "comment-list-outline-blue": {
+        "r": 15,
+        "g": 15,
+        "b": 15
+    }
+}

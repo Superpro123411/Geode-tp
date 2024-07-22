@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>capeling.soggy-mod/GJ_sog_001.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{0,0}</string>
+			<key>spriteSize</key>
+			<string>{2560,1440}</string>
+			<key>spriteSourceSize</key>
+			<string>{2560,1440}</string>
+			<key>textureRect</key>
+			<string>{{0,0},{2560,1440}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>capeling.soggy-mod/GJ_soggyBtn_001.png</key>
+		<dict>
+			<key>spriteOffset</key>
+			<string>{-1,0}</string>
+			<key>spriteSize</key>
+			<string>{283,449}</string>
+			<key>spriteSourceSize</key>
+			<string>{284,450}</string>
+			<key>textureRect</key>
+			<string>{{0,1442},{283,449}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>3</integer>
+		<key>realTextureFileName</key>
+		<string>capeling.soggy-mod/SoggySheet-uhd.png</string>
+		<key>size</key>
+		<string>{2560,1725}</string>
+		<key>textureFileName</key>
+		<string>capeling.soggy-mod/SoggySheet-uhd.png</string>
+	</dict>
+</dict>
+</plist>
